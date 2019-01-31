@@ -53,7 +53,6 @@ class Song
     artists_counted
   end
   
-  
 end
 
 
